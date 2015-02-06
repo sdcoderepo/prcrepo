@@ -3,5 +3,5 @@
 using namespace std;
 
 int main(){
-    cout << "Slightly changed " << endl;
+    cout << "Another change" << endl;
 }
